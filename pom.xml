@@ -35,7 +35,7 @@
     </excludedGroups>
 
     <!-- groups to run with surefire plugin - intended to be overridden on the command line -->
-    <includedGroups></includedGroups>
+    <includedGroups/>
     
     <argLine>-Xms256m -Xmx512m</argLine>
 
@@ -54,7 +54,7 @@
     <firebird.version>2.2.5</firebird.version>
 
     <!-- JPA deps -->
-    <hibernate.version>5.4.8.Final</hibernate.version>
+    <hibernate.version>5.4.24.Final</hibernate.version>
     <hibernate.validator.version>6.0.18.Final</hibernate.validator.version>
     <eclipselink.version>2.6.2</eclipselink.version>
 
