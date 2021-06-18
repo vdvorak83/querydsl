@@ -23,7 +23,7 @@
     </scm>
 
     <properties>
-        <mvn.version>2.2.1</mvn.version>
+        <mvn.version>3.5.0</mvn.version>
         <jdo.version>2.3-eb</jdo.version>
         <maven.javadoc.skip>true</maven.javadoc.skip>
     </properties>
