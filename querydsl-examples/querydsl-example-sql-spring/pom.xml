@@ -18,7 +18,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <spring.version>4.1.6.RELEASE</spring.version>
     <guava.version>18.0</guava.version>
-    <h2.version>1.3.170</h2.version>
+    <h2.version>1.4.197</h2.version>
   </properties>
 
   <dependencies>
