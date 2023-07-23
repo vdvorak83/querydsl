@@ -24,7 +24,7 @@
 
   <properties>
     <hibernate4.version>4.1.7.Final</hibernate4.version>
-    <hibernate4.validator.version>4.3.0.Final</hibernate4.validator.version>
+    <hibernate4.validator.version>6.0.23.Final</hibernate4.validator.version>
   </properties>
 
   <dependencies>   
